@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include 'public/head.html' %}
+</head>
+<body class="hold-transition sidebar-mini layout-fixed">
+  <div class="wrapper">
+    <!-- Preloader -->
+    
+    <!-- Navbar:navi -->
+    {% include 'public/navi.html' %}    
+    <!-- Main Sidebar:left Container -->
+    {% include 'public/left.html' %}
+    <!-- Content Wrapper:index_content. Contains page content -->
+    {% include 'pages/create_sentence_content.html' %}
+    <!-- copyright -->        
+    {% include 'public/copyright.html' %}
+    <!-- Control Sidebar:right -->        
+    {% include 'public/right.html' %}
+  </div>
+  <!-- ./wrapper -->
+  {% include 'public/js.html' %}  
+</body>
+</html>
