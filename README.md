@@ -1,3 +1,5 @@
+- 딥러닝 교육 중 강사님과 함께 진행한 실습입니다.
+
 |문장생성|챗봇|
 |:-:|:-:|
 |<img src="https://user-images.githubusercontent.com/67897827/223158500-33b3ff0b-4237-40fe-9804-40bef87bc1db.PNG" width="700" height="300"/>|<img src="https://user-images.githubusercontent.com/67897827/223158509-ba07cc3a-c404-466c-81a3-c311a642b3ce.PNG" width="700" height="300"/>| 
